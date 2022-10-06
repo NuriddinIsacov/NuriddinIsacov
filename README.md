@@ -3,7 +3,7 @@
 
 <img align="right" alt="gif" src="https://user-images.githubusercontent.com/100675787/194277892-9e0fc740-23a4-43cd-bbdd-61a63c7ab829.gif" width="300" height="250">
 
-### Hi there, I am Nuriddin, a dotnet developer from Uzbekistan
+### Hi there, I am Nuriddin, a .NET developer from Uzbekistan
 ### 
 ###
 ###
