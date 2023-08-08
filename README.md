@@ -20,9 +20,5 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NuriddinIsacov&show_icons=true&theme=radical)
-
-
-
 ![programmerGif](https://user-images.githubusercontent.com/100675787/196100817-0eb887a8-d288-4fe9-bf68-7b4728c541d9.gif)
 
